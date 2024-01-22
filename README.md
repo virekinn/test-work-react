@@ -2,18 +2,18 @@
 
 # Запуск и проверка задания 1
 
-Из директории /client
+Из директории test 1/client
 1. npm i
 2. npm start
 
 
 # Запуск и проверка задания 2
 
-Из директории /client
+Из директории test 2/client
 1. npm i
 2. npm start
 
-Из директории /backend
+Из директории test 2/backend
 1. npm i
 2. npm start
 
